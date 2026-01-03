@@ -33,12 +33,12 @@ CustomerLoyaltyScore – Loyalty score assigned to the customer
 
 **Tools & Technologies Used**
 
-Python
-NumPy
-Pandas
-Matplotlib
-Kaggle Dataset
-Git & GitHub
+-Python
+-NumPy
+-Pandas
+-Matplotlib
+-Kaggle Dataset
+-Git & GitHub
 
 **Data Loading**
 
@@ -48,10 +48,10 @@ _1) Loaded the dataset using Pandas
 
 **Data Cleaning & Preprocessing**
 
-_Checked and handled missing values
-Removed duplicate records
-Converted columns to appropriate data types
-Converted transaction date to datetime format_
+1) _Checked and handled missing values
+2) Removed duplicate records
+3) Converted columns to appropriate data types
+4) Converted transaction date to datetime format_
 
 **Feature Engineering**
 
